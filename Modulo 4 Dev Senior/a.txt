@@ -1,0 +1,14 @@
+INFORME DE EXPERIMENTOS
+Fecha de generación: 19-05-2025 21:45:17
+--------------------
+DETALLE DE EXPERIMENTOS:
+
+Nombre: a
+Fecha: 10-03-2020
+Tipo: Biología
+Resultados: 10,20,50
+Promedio de resultados: 26.67
+--------------------
+CONCLUSIONES:
+
+No se incluyen conclusiones en esta versión.

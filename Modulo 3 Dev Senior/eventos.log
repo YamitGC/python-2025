@@ -1,0 +1,6 @@
+2025-03-19 18:09:39,343 - DEBUG Producto agregado: Laptop - Precio: 1000 - Stock: 5
+2025-03-19 18:09:39,344 - DEBUG Producto agregado: Teclado - Precio: 50 - Stock: 20
+2025-03-19 18:09:39,344 - INFO Compra exitosa: 1 unidades de 'Laptop'. Stock restante 4 unidades.
+2025-03-19 18:09:39,344 - INFO Compra realizada: 1 unidades de Laptop por un total de $1000
+2025-03-19 18:09:39,344 - INFO Compra exitosa: 1 unidades de 'Teclado'. Stock restante 19 unidades.
+2025-03-19 18:09:39,344 - INFO Compra realizada: 1 unidades de Teclado por un total de $50

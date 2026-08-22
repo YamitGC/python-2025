@@ -1,0 +1,1 @@
+Primero se hace el models, luego data base, services y ui

@@ -1,0 +1,11 @@
+INFORME DE EXPERIMENTOS
+Fecha de generación: 19-05-2025 21:03:25
+--------------------
+DETALLE DE EXPERIMENTOS:
+
+Nombre: bacteria
+Fecha: 10-04-2020
+Tipo: Biología
+Resultados: 50,20,30
+Promedio de resultados: 33.33
+--------------------

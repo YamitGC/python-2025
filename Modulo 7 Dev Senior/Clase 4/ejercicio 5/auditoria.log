@@ -1,0 +1,22 @@
+2025-08-21 21:46:08,424 - ERROR - Error: 'Factura' object has no attribute 'cantidad'
+2025-08-21 21:46:24,319 - ERROR - Error: 'Factura' object has no attribute 'cantidad'
+2025-08-21 21:46:58,523 - ERROR - Error: 'Factura' object has no attribute 'cantidad'
+2025-08-21 21:49:21,542 - ERROR - Error: 'Factura' object has no attribute 'cantidad'
+2025-08-21 21:50:15,380 - ERROR - Error: 'Factura' object has no attribute 'cantidad'
+2025-08-21 21:50:36,268 - ERROR - Error: 'Factura' object has no attribute 'cantidad'
+2025-08-21 21:52:30,197 - ERROR - Error: 'Factura' object has no attribute 'cantidad'
+2025-08-22 21:27:29,953 - INFO - Factura creada: 1, Cliente: yamit, Monto: 20000.00, Precio Unitario: 10000.00
+2025-08-22 21:27:29,955 - ERROR - Error: 2 validation errors:
+  {'type': 'missing', 'loc': ('response', 'monto'), 'msg': 'Field required', 'input': {'id': 1, 'cliente': 'yamit', 'precio_unitario': 10000.0, 'total': 20000.0}}
+  {'type': 'missing', 'loc': ('response', 'cantidad'), 'msg': 'Field required', 'input': {'id': 1, 'cliente': 'yamit', 'precio_unitario': 10000.0, 'total': 20000.0}}
+
+2025-08-22 21:30:03,775 - INFO - Factura creada: 1, Cliente: yamit, Monto: 20000.00
+2025-08-26 20:40:28,609 - INFO - Factura creada: 1, Cliente: yamit, Monto: 20000.00
+2025-08-26 20:40:41,966 - INFO - Factura creada: 2, Cliente: Juan, Monto: 20000.00
+2025-08-26 20:41:42,534 - INFO - Factura eliminada: 1
+2025-08-26 20:42:21,924 - INFO - Factura creada: 3, Cliente: yamit, Monto: 10000.00
+2025-08-26 20:42:33,999 - INFO - Factura creada: 4, Cliente: Juan, Monto: 20000.00
+2025-08-26 20:45:13,080 - INFO - Factura creada: 1, Cliente: yamit, Monto: 20000.00
+2025-08-26 20:45:23,932 - ERROR - Error: 'Factura' object has no attribute 'id'
+2025-08-26 20:50:07,376 - INFO - Factura creada con éxito - Id: 1 - Cliente: Yamit - Total: 20000.00 - Cantidad: 2 - Precio Unitario: 10000.00
+2025-08-26 20:50:22,551 - INFO - Factura creada con éxito - Id: 2 - Cliente: Juan - Total: 20000.00 - Cantidad: 2 - Precio Unitario: 10000.00

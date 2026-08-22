@@ -1,0 +1,20 @@
+INFORME DE EXPERIMENTOS
+Fecha de generación: 20-05-2025 20:13:06
+--------------------
+DETALLE DE EXPERIMENTOS:
+
+Nombre: CORONAVIRUS
+Fecha: 10-03-2020
+Tipo: Biología
+Resultados: 10,30,30
+Promedio de resultados: 23.33
+--------------------
+Nombre: Bacteria
+Fecha: 02-03-1999
+Tipo: Biología
+Resultados: 10,30,40
+Promedio de resultados: 26.67
+--------------------
+CONCLUSIONES:
+
+No se incluyen conclusiones en esta versión.
